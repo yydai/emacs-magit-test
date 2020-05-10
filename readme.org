@@ -1,9 +1,7 @@
 * Emacs Magit
-
 ** What is Magit
-
 ** How to use
-
 *** The basic use cases
 *** Workflow
 *** The basic command
+***** hello
